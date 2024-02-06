@@ -1,1 +1,1 @@
-# Blockchain-Wallet-Miner-AI-V0.1
+# Blockchain-Wallet-Miner-AI

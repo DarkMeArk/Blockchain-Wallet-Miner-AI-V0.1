@@ -1,0 +1,26 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "Recover Lost Bitcoin Wallet With Positive Balance",
+  "main": "app.js",
+  "scripts": {
+    "test": "run",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkMeArk/Blockchain-Wallet-Miner-AI.git"
+  },
+  "keywords": [
+    "9211"
+  ],
+  "author": "DarkmeArk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarkMeArk/Blockchain-Wallet-Miner-AI/issues"
+  },
+  "homepage": "https://github.com/DarkMeArk/Blockchain-Wallet-Miner-AI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
