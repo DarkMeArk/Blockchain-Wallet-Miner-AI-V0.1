@@ -23,7 +23,7 @@ node server.js
 
 
 5. **Access the Application:**
-Open a web browser and navigate to `http://localhost:3000`.
+Open a web browser and navigate to `http://localhost:8000`.
 
 ## Usage
 
